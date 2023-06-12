@@ -86,3 +86,11 @@ const char=(char)=>{
     }
 }
 console.log(char('Ajay')); //the character is uppercase
+
+// adding day2 script
+const addScript=(src)=>{
+    const script=document.createElement('script');
+    script.src=src;
+    document.body.appendChild(script);
+}
+addScript('day.js')

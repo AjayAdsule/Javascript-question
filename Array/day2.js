@@ -27,3 +27,5 @@ const reverseArray=(...arr)=>{
     return arr.reverse()
 }
 console.log(reverseArray(12,14,14,78,54,100));
+
+//Find the average of all elements in an array.

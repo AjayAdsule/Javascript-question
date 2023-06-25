@@ -95,7 +95,7 @@ const reverseArray = (...num) => {
   console.log(result);
   console.log(typeof result);
 };
-reverseArray(12, 14, 12, 441, 10);
+// reverseArray(12, 14, 12, 441, 10);
 
 // Write a function to sort an array in ascending order.
 // Write a function to check if an element exists in an array.
@@ -121,9 +121,10 @@ const findIndex = (arr, ele) => {
   let index = arr.indexOf(ele);
   console.log(index);
 };
-findIndex(val, 12);
-findIndex(val, 2);
-// Write a function to remove a specific element from an array.
+// findIndex(val, 12);
+// findIndex(val, 2);
+// Write a function to remove a specific element from an array
+
 
 // Write a function to find the average of all the elements in an array.
 
@@ -141,7 +142,7 @@ var givenArray = [
     });
     console.log(newArr);
   };
-  console.log(findOdd(givenArray));
+  // console.log(findOdd(givenArray));
 }
 
 {
@@ -154,5 +155,6 @@ var givenArray = [
     }
     console.log(newArr);
   };
-  findsOdd(givenArray);
+  // findsOdd(givenArray);
 }
+

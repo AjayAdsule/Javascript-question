@@ -10,7 +10,7 @@
 let start = 8723;
 let end = 6567;
 
-
+.
 const twoStage = (start, end) => {
     let filterArray = [];
   for (let i = start; i > end; i--) {
@@ -25,5 +25,14 @@ const twoStage = (start, end) => {
   }
   console.log(result);
 };
-twoStage(start, end);
+// twoStage(start, end);
 // console.log(filterArray);
+
+{
+  let arr=[12,14,14,52,47,5]
+  let count =0;
+  for(let i=0;i<arr.length;i++){
+    count+=arr[i]
+  }
+  console.log("sum is",count)
+}

@@ -1,0 +1,10 @@
+Write a JavaScript function to check if a string is a palindrome.
+Write a JavaScript function to count the number of vowels in a string.
+Write a JavaScript function to reverse the words in a sentence.
+Write a JavaScript function to capitalize the first letter of each word in a sentence.
+Write a JavaScript function to find the longest word in a sentence.
+Write a JavaScript function to remove all occurrences of a specified character from a string.
+Write a JavaScript function to truncate a string and add ellipsis (...) if it exceeds a specified length.
+Write a JavaScript function to find the most frequent character in a string.
+Write a JavaScript function to convert a string to title case (capitalize the first letter of each word).
+Write a JavaScript function to find the second most frequent character in a string.

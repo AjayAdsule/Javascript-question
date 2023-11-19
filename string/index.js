@@ -32,6 +32,35 @@
     console.log(containSubStrings("javascript"));
 }
 // Write a program to replace all occurrences of a substring in a string.
+{
+  const replace=(str)=>{
+       let sub= str.replace('is','are')
+       return sub;
+  }
+  console.log(replace('ajay is devloper'), 'this is replace ');
+}
 // Write a program to split a string into an array of substrings.
+{
+  const splits=(str)=>{
+    let result= str.split(',');
+    return result
+  }
+  console.log(splits('ajay is devloper, and web3 lernoing'),'this is split function');
+}
 // Write a program to remove all whitespace from a string.
+{
+  const removeWhiteSpace=((str)=>{
+    let result= str.trim(' ');
+    return result
+  }) 
+  console.log(removeWhiteSpace('ajay is devlo per'));
+}
 // Write a program to capitalize the first letter of each word in a string.
+{
+  const capitalize=(str)=>{
+   
+    
+    
+  }
+  console.log(capitalize('ajay is devloper'));
+}

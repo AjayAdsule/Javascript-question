@@ -82,3 +82,4 @@ console.log(result);
     }
     console.log(reduce(arr));
 }
+
